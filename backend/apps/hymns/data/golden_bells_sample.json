@@ -1,0 +1,44 @@
+[
+  {
+    "number": 1,
+    "title": "Golden Bells - Praise My Soul",
+    "lyrics": "Praise, my soul, the King of heaven; to his feet thy tribute bring...",
+    "language": "english",
+    "category": "worship"
+  },
+  {
+    "number": 12,
+    "title": "Golden Bells - Ni We Wa Mwathi",
+    "lyrics": "Ni we wa Mwathi ni tutiuhotia, niwe watuhonokirie...",
+    "language": "kikuyu",
+    "category": "worship"
+  },
+  {
+    "number": 54,
+    "title": "Golden Bells - Mungu Yu Mwema",
+    "lyrics": "Mungu yu mwema, mungu yu mwema, mungu yu mwema, yu mwema kwangu...",
+    "language": "swahili",
+    "category": "praise"
+  },
+  {
+    "number": 203,
+    "title": "Golden Bells - Guide Me O Thou Great Redeemer",
+    "lyrics": "Guide me, O Thou great Redeemer, pilgrim through this barren land...",
+    "language": "english",
+    "category": "prayer"
+  },
+  {
+    "number": 310,
+    "title": "Golden Bells - Ni Ngai Tuvithe",
+    "lyrics": "Ni Ngai tuvithie, ni Ngai tuvithie, tuthururukaga...",
+    "language": "kikuyu",
+    "category": "thanksgiving"
+  },
+  {
+    "number": 412,
+    "title": "Golden Bells - Hakuna Mungu Kama Wewe",
+    "lyrics": "Hakuna Mungu kama wewe, hakuna Mungu kama wewe...",
+    "language": "swahili",
+    "category": "praise"
+  }
+]
